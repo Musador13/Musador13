@@ -10,9 +10,8 @@
 ---
 
 ### My projects 🌟:
-- [Mega Trans bot](https://github.com/Musador13/MegaTrans)
 - [Tinkoff contest](https://github.com/Musador13/Tinkoff-Contest)
-- [Telegram bot](https://github.com/Musador13/Telegram-Bot)
+- [Telegram bot](https://github.com/Musador13/TestBot)
 
 ---
 
