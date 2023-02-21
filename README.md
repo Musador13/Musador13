@@ -12,7 +12,8 @@
 ### My projects 🌟:
 - [Tinkoff contest](https://github.com/Musador13/Tinkoff-Contest)
 - [Telegram bot](https://github.com/Musador13/TestBot)
-
+- [Yandex exam](https://github.com/Musador13/Yandex_exam)
+- [Stepik solutions](https://github.com/Musador13/Stepik_examples)
 ---
 
 ### Experience & Skills:
