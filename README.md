@@ -10,6 +10,7 @@
 ---
 
 ### My projects 🌟:
+- [Stepik exams](https://github.com/Musador13/stepik_exam_python)
 - [Tinkoff contest](https://github.com/Musador13/Tinkoff-Contest)
 - [Telegram bot](https://github.com/Musador13/TestBot)
 - [Yandex exam](https://github.com/Musador13/Yandex_exam)
