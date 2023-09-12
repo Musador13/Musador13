@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">💻 Java/Python Devoloper from Moscow</h3>
 
-- 📚 I am currently learning deeply about Spring Framework and microservices.
+- 📚 I am currently learning deeply about Python and DL/ML.
 - 📫 How to reach me: 
 - ☎️ https://t.me/Musador
 - 📧 musa131299@gmail.com 
