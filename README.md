@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Musador" target="_blank">Musa</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">💻 Java/Python Devoloper from Moscow</h3>
+<h3 align="center">💻 ML/DL Ops & Developer</h3>
 
 - 📚 I am currently working with DL/ML and backend on python.
 - 📫 How to reach me: 
