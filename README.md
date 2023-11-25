@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Musador" target="_blank">Musa</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">💻 ML/DL Ops & Backend Developer</h3>
-
-- 📚 I am currently working with DL/ML and backend on Python.
+<h3 align="center">📈 ML/DL Ops & 💻 Backend Developer.</h3>
+- 👨🏼‍🎓 Graduated of the Faculty of Information Security and Computer Science
+- 💼 I am currently working with DL/ML and backend on Python.
 - 📫 How to reach me: 
 - ☎️ https://t.me/Musador
 - 📧 musa131299@gmail.com 
