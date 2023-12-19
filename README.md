@@ -12,10 +12,10 @@
 ---
 
 ### My projects 🌟:
-- [Stepik exams](https://github.com/Musador13/stepik_exam_python)
+- [TensorFlow 2 with GPU on Windows - Installation Guide](https://github.com/Musador13/TensorFlow-CUDA-Windows-Installation-Guide)
 - [Tinkoff contest](https://github.com/Musador13/Tinkoff-Contest)
-- [Telegram bot](https://github.com/Musador13/TestBot)
 - [Yandex exam](https://github.com/Musador13/Yandex_exam)
+- [Stepik exams](https://github.com/Musador13/stepik_exam_python)
 - [Stepik solutions](https://github.com/Musador13/Stepik_examples)
 ---
 
