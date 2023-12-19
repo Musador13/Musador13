@@ -12,7 +12,8 @@
 ---
 
 ### My projects 🌟:
-- [TensorFlow 2 with GPU on Windows - Installation Guide](https://github.com/Musador13/TensorFlow-CUDA-Windows-Installation-Guide)
+
+- [TensorFlow 2 with GPU on Windows - Installation Guide](https://github.com/Musador13/TensorFlow-CUDA-Windows-Installation-Guide/blob/main/README.md)
 - [Tinkoff contest](https://github.com/Musador13/Tinkoff-Contest)
 - [Yandex exam](https://github.com/Musador13/Yandex_exam)
 - [Stepik exams](https://github.com/Musador13/stepik_exam_python)
